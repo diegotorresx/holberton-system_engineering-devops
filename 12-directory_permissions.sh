@@ -1,0 +1,6 @@
+#!/bin/bash
+mkdir dir_holberton; chmod 751 $pwd/
+
+
+
+
